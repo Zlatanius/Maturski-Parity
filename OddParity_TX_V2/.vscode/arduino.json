@@ -1,0 +1,7 @@
+{
+    "sketch": "OddParity_TX_V2.ino",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "COM4",
+    "programmer": "AVR ISP"
+}
